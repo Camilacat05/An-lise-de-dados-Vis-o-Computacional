@@ -1,2 +1,3 @@
-# An-lise-de-dados-Vis-o-Computacional
-Notebook's, cursos e materiais
+# 
+Análise de dados e Visao-Computacional
+Notebook's, cursos e materiais.
